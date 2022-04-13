@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AE3F3117-BD43-4C49-A4C1-DEAEDBEFB5DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="WebApplication/Controllers/WeatherForecastController.cs" Line="27" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication" expanded="True">
+            <Node name="WebApplication" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
