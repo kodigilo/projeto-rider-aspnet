@@ -12,3 +12,9 @@ jobs:
         uses: actions/setup-dotnet@v2
         with:
           dotnet-version: 5.0.x
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Build
+        run: dotnet build -c Release --no-restore
+      - name: Test
+        run: dotnet test --no-restore --verbosity normal 
